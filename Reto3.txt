@@ -1,0 +1,8 @@
+Desarrolla un algoritmo que permita al usuario ingresar un conjunto de números enteros positivos (con un valor máximo de 1000), que se guardará en un arreglo unidimensional de tamaño 10.
+
+Luego, el programa debe calcular y mostrar la suma de todos los números pares y la cantidad de números impares en el arreglo. Para ello, debes utilizar:
+
+Un bucle para recorrer el arreglo.
+Operadores lógicos y relacionales para identificar los números pares e impares.
+Mostrar por consola la suma total de los números pares.
+Mostrar por consola la cantidad de números impares.
